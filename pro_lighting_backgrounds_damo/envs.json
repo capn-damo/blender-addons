@@ -6,6 +6,13 @@
             "MeadowTrail_01",
             3,
             1
+        ],
+        [
+            "Castle 1",
+            "Castle 01",
+            "castle_01",
+            1,
+            1
         ]
     ],
     "builtin_check": [
@@ -28,6 +35,10 @@
         
         },
         "city": {
+            "castle_01": [
+                1.0,
+                1.0
+            ]
         
         },
         "landscape": {
