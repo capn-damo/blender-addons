@@ -1,0 +1,22 @@
+{
+    "builtin_check": [
+        "clear01"
+    ],
+    "categories": {
+        "favorites": {
+            "clear01": [
+                1.0,
+                1.0
+            ]
+        }
+    },
+    "environments": [
+        [
+            "Clear 1",
+            "Clear 01",
+            "clear01",
+            1,
+            1
+        ]
+    ]
+}
