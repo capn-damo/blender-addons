@@ -18,7 +18,7 @@
 
 # <pep8-80 compliant>
 
-# Text edits by damo
+# Edits by damo
 
 import os
 import json
