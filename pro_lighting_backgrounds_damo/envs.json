@@ -13,10 +13,35 @@
             "castle_01",
             1,
             1
+        ],
+        [
+            "church_interior_01 1",
+            "church_interior_01 01",
+            "church_interior_01",
+            2.0,
+            0.8
+        ],
+        [
+            "City_Night_Lights_01 1",
+            "City_Night_Lights_01 01",
+            "City_Night_Lights_01",
+            1.0,
+            1.0
+        ],
+        [
+            "Woodland_path_01 1",
+            "Woodland_path_01 01",
+            "Woodland_path_01",
+            1.0,
+            1.0
         ]
     ],
     "builtin_check": [
-        "MeadowTrail_01"
+        "MeadowTrail_01",
+        "church_interior_01",
+        "castle_01",
+        "City_Night_Lights_01",
+        "Woodland_path_01"
     ],
     "categories": {
         "favorites": {
@@ -26,10 +51,17 @@
             ]
         },
         "night": {
+            "City_Night_Lights_01": [
+                1.0,
+                1.0
+            ]
         
         },
         "interior": {
-        
+            "church_interior_01": [
+                2.0,
+                0.8
+            ]
         },
         "studio": {
         
@@ -44,6 +76,10 @@
         "landscape": {
             "MeadowTrail_01": [
                 3.0,
+                1.0
+            ],
+            "Woodland_path_01": [
+                1.0,
                 1.0
             ]
         },
